@@ -21,9 +21,9 @@ Meu objetivo aqui é construir um portfólio sólido, experimentar diferentes te
 Para manter tudo organizado, cada projeto vive em sua própria subpasta. Por enquanto esta é a "figura" do meu mapa:
 
 ```sh
-📁 portfolio-de-projetos/
+📁 mini-projetos/
 │
-├── 📁 01-sistema-bancario/
+├── 📁 sistema de caixa simples/
 │   ├── script_banco.py
 │   └── README.md  (explicações específicas do projeto)
 │
