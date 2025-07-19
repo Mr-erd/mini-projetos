@@ -23,8 +23,8 @@ Para manter tudo organizado, cada projeto vive em sua própria subpasta. Por enq
 ```sh
 📁 mini-projetos/
 │
-├── 📁 sistema de caixa simples/
-│   ├── script_banco.py
+├── 📁 Sistema de caixa simples/
+│   ├── Calculo de desconto.py
 │   └── README.md  (explicações específicas do projeto)
 │
 ├── 📁 /
